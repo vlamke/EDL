@@ -4,7 +4,6 @@ download.windowsupdate.com
 download.microsoft.com
 wustat.windows.com
 ntservicepack.microsoft.com
-go.microsoft.com
 dl.delivery.mp.microsoft.com
 *.windowsupdate.microsoft.com
 *.windowsupdate.com
