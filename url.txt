@@ -1,7 +1,12 @@
 tlu.dl.delivery.mp.microsoft.com
 windowsupdate.microsoft.com
 download.windowsupdate.com
+download.microsoft.com
 wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
+dl.delivery.mp.microsoft.com
+*.windowsupdate.microsoft.com
 *.windowsupdate.com
 *.download.windowsupdate.com
 *.update.microsoft.com
@@ -10,3 +15,4 @@ wustat.windows.com
 *.edgesuite.net
 *.akamaiedge.net
 *.trafficmanager.net
+*.delivery.mp.microsoft.com
